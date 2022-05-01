@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+      "name": "Thor",
+      "location": "Asgarth",
+      "statistics":
+        {"power": 900,
+          "defense": 500,
+          "hability": 250
+        }
+    },
+    {
+        "id": "2",
+        "name": "Hulk",
+        "location": "Earth",
+        "statistics":
+          {"power": 1500,
+            "defense": 800,
+            "hability": 150
+          }
+      },
+      {
+        "id": "3",
+        "name": "Superman",
+        "location": "Krypton",
+        "statistics":
+          {"power": 2000,
+            "defense": 900,
+            "hability": 550
+          }
+      },
+      {
+        "id": "4",
+        "name": "Batman",
+        "location": "Earth",
+        "statistics":
+          {"power": 500,
+            "defense": 300,
+            "hability": 250
+          }
+      },
+      {
+        "id": "5",
+        "name": "Spiderman",
+        "location": "Earth",
+        "statistics":
+          {"power": 500,
+            "defense": 200,
+            "hability": 650
+          }
+      },
+      {
+        "id": "6",
+        "name": "Iron Man",
+        "location": "Earth",
+        "statistics":
+          {"power": 800,
+            "defense": 1000,
+            "hability": 650
+          }
+      },
+      { "id": "7",
+        "name": "America Captain",
+        "location": "Earth",
+        "statistics":
+          {"power": 700,
+            "defense": 500,
+            "hability": 750
+          }
+      }
+      
+  ]
